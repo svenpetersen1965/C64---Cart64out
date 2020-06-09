@@ -10,3 +10,6 @@ a jumper, which might be useful for copying a cartridge. To provide a perfect ti
 could be connected to the Jumper JP1.
 
 Also the signals from J2 can be connected to a bread board.
+
+# Calculation of the BOM
+The compnent prices (PBC included) were summed up. The total costs are 2.99€ (depending on the part sourcing). No shipping fees are included.
