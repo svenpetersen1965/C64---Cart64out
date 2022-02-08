@@ -9,7 +9,10 @@ Some configuration and chip select signals are connected to a jumper, hence they
 a jumper, which might be useful for copying a cartridge. To provide a perfect timing for this, a micro controller 
 could be connected to the Jumper JP1.
 
-Also the signals from J2 can be connected to a bread board.
+Also the signals from J2 can be connected to a bread board. The two GND and two +5V pins on JP1 are intended for this purpose.
+
+# Rev. 0a
+This revision is a derivative of Rev. 0. It offers two additional mounting holes, in case this board is used to be an extension of the port (not tested, yet).
 
 # Calculation of the BOM
 The compnent prices (PBC included) were summed up. The total costs are 2.99€ (depending on the part sourcing). No shipping fees are included.
