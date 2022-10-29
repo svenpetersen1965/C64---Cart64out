@@ -14,5 +14,9 @@ Also the signals from J2 can be connected to a bread board. The two GND and two 
 # Rev. 0a
 This revision is a derivative of Rev. 0. It offers two additional mounting holes, in case this board is used to be an extension of the port (not tested, yet).
 
+# Rev. 1
+Rev. one has four mounting holes and additional signals (/IRQ , /NMI and /DMA) on the pin header JP1. 
+<img src="https://github.com/svenpetersen1965/C64---Cart64out/blob/master/Rev.%201/pictures/1419_-_cart64out_rev1.JPG" width="300" alt="Cart64out">
+
 # Calculation of the BOM
 The compnent prices (PBC included) were summed up. The total costs are 2.99€ (depending on the part sourcing). No shipping fees are included.
